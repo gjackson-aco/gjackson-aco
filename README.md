@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about networking and IT security
 - 📫 How to reach me: gjackson@aco.co.uk
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Been in IT over 25 years and still get nervous trying to learn new things!
+- ⚡ Fun fact: Been in IT over 25 years and always learning (although takes longer now)!
 -->
