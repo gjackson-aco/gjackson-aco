@@ -1,0 +1,2 @@
+# This is just a test file for the training session on GitHub
+# It will be committed to my repository as version 1
