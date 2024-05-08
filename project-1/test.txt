@@ -1,2 +1,5 @@
 # This is just a test file for the training session on GitHub
 # It will be committed to my repository as version 1
+
+# During training, we've added a new feature so we are now going to use this as a latest version
+# Feature is that I understand the very basics of GitHub!
